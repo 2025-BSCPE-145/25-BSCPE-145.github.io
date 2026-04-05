@@ -29,6 +29,6 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
 #  isso_domain: ""              # see https://isso-comments.de
-
+theme: jekyll-theme-minimal
 plugins:
  - jekyll-feed
